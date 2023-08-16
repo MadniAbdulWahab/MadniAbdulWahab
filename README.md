@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 [linkedin]: www.linkedin.com/in/abdul-wahab-madni
 [instagram]: https://www.instagram.com/notwahab_009/
-[Gmail]: https://mail.google.com/mail/u/1/?ogbl#inbox
+[Gmail]: mailto:madniabdulwahab@gmail.com
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
