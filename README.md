@@ -13,16 +13,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>Hi, I'm Abdul Wahab Madni! <br/><a href="https://github.com/joshmadakor1">Data Analyst</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Computer Science Student at University of Bonn</a></h1>
+<h1>Hi, I'm Abdul Wahab Madni! <br/><a>Data Analyst</a>, Computer Science Student at <a href="https://www.uni-bonn.de/en">University of Bonn</a></h1>
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
 - <b> Customer Segmentation and Product Analysis (Panel)</b>
-  - [In-depth analysis of customer segments and product trends](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [In-depth analysis of customer segments and product trends](https://github.com/MadniAbdulWahab/CustomerSegmentationandProductAnalysis)
 - <b>Interactive Analysis of Mice Protein Expressions (Dash)</b>
-  - [Mice Protein Expression Visualization Dashboard](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) </i>
+  - [Mice Protein Expression Visualization Dashboard](https://github.com) </i>
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com)
 
 
 <h2> 🤳 Connect with me:</h2>
