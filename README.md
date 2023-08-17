@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>Hi, I'm Abdul Wahab Madni! <br/><a>Data Analyst</a>, Computer Science Student at <a href="https://www.uni-bonn.de/en">University of Bonn</a></h1>
+<h1>Hi, I'm Abdul Wahab Madni!</h1> 
+<h2>Data Analyst, Computer Science Student at <a href="https://www.uni-bonn.de/en">University of Bonn</a>, Web Developer</h2>
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
