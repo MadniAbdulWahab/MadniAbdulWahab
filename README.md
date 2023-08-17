@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com)
 
-<h2>💻🖥 Web Development Projects:</h2>
+<h2>💻 Web Development Projects:</h2>
 
 - <b> University Notes Management System (Panel)</b>
   - [A web-based common platform for notes sharing](https://github.com/MadniAbdulWahab)
