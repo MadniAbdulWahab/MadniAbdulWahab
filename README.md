@@ -22,8 +22,7 @@ Here are some ideas to get you started:
   - [In-depth analysis of customer segments and product trends](https://github.com/MadniAbdulWahab/CustomerSegmentationandProductAnalysis)
 - <b>Interactive Analysis of Mice Protein Expressions (Dash)</b>
   - [Mice Protein Expression Visualization Dashboard](https://github.com/MadniAbdulWahab/InteractiveAnalysisofMiceProteinExpressions) </i>
-- <b>Python</b>
-  - [Package Delivery Analysis](https://github.com)
+
 
 <h2>💻 Web Development Projects:</h2>
 
