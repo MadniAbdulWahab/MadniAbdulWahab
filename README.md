@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Abdul Wahab Madni | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Abdul Wahab Madni | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Gmail]
 
-[linkedin]: www.linkedin.com/in/abdul-wahab-madni
+[linkedin]: https://www.linkedin.com/in/abdul-wahab-madni
 [instagram]: https://www.instagram.com/notwahab_009/
 [Gmail]: mailto:madniabdulwahab@gmail.com
 
