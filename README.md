@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1>Hi, I'm Abdul Wahab Madni!</h1> 
 <h2>Data Analyst, Computer Science Student at <a href="https://www.uni-bonn.de/en">University of Bonn</a>, Web Developer</h2>
 
-<h2>👨‍💻 Data Analysis Projects:</h2>
+<h3>👨‍💻 Data Analysis Projects:</h3>
 
 - <b> Customer Segmentation and Product Analysis (Panel)</b>
   - [In-depth analysis of customer segments and product trends](https://github.com/MadniAbdulWahab/CustomerSegmentationandProductAnalysis)
@@ -24,12 +24,12 @@ Here are some ideas to get you started:
   - [Mice Protein Expression Visualization Dashboard](https://github.com/MadniAbdulWahab/InteractiveAnalysisofMiceProteinExpressions) </i>
 
 
-<h2>💻 Web Development Projects:</h2>
+<h3>💻 Web Development Projects:</h3>
 
 - <b> University Notes Management System (Django)</b>
   - [A web-based common platform for notes sharing](https://github.com/MadniAbdulWahab)
 
-<h2> 🤳 Connect with me:</h2>
+<h4> 🤳 Connect with me:</h4>
 
 [<img align="left" alt="Abdul Wahab Madni | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Abdul Wahab Madni | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
