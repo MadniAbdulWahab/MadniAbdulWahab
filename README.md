@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <h3>💻 Web Development Projects:</h3>
 
 - <b> University Notes Management System (Django)</b>
-  - [A web-based common platform for notes sharing](https://github.com/MadniAbdulWahab)
+  - [A web-based common platform for notes sharing](https://github.com/MadniAbdulWahab/UniversityNotesManagementSystem)
 
 <h3> 🤳 Connect with me:</h3>
 
