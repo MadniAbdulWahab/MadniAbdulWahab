@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - <b> University Notes Management System (Django)</b>
   - [A web-based common platform for notes sharing](https://github.com/MadniAbdulWahab)
 
-<h4> 🤳 Connect with me:</h4>
+<h3> 🤳 Connect with me:</h3>
 
 [<img align="left" alt="Abdul Wahab Madni | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Abdul Wahab Madni | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
