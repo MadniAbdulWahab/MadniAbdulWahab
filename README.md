@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - <b>Interactive Analysis of Mice Protein Expressions (Dash)</b>
   - [Mice Protein Expression Visualization Dashboard](https://github.com/MadniAbdulWahab/InteractiveAnalysisofMiceProteinExpressions) </i>
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com)
+  - [Package Delivery Analysis](https://github.com)
 
 <h2>💻 Web Development Projects:</h2>
 
