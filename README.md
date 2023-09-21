@@ -29,6 +29,11 @@ Here are some ideas to get you started:
 - <b> University Notes Management System (Django)</b>
   - [A web-based common platform for notes sharing](https://github.com/MadniAbdulWahab/UniversityNotesManagementSystem)
 
+<h3>📚 Course Work:</h3>
+
+- <b> Visual Data Analysis (Panel)</b>
+  - [In-depth analysis of customer segments and product trends](https://github.com/MadniAbdulWahab/CustomerSegmentationandProductAnalysis)
+
 <h3> 🤳 Connect with me:</h3>
 
 [<img align="left" alt="Abdul Wahab Madni | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
