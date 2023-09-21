@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <h3>📚 Course Work:</h3>
 
-- <b> Visual Data Analysis (Panel)</b>
+- <b> Visual Data Analysis (Masters)</b>
   - [Comprehensive training in advanced data visualization techniques, color theory, geographical data representation, and scientific visualization, using a wide array of Python libraries and tools.](https://github.com/MadniAbdulWahab/VisualDataAnalysis)
 
 <h3> 🤳 Connect with me:</h3>
