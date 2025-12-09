@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>Hi, I'm Abdul Wahab Madni!</h1> 
-<h2>Data Analyst, Computer Science Student at <a href="https://www.uni-bonn.de/en">University of Bonn</a>, Web Developer</h2>
+<h2>Software engineer, Data Analyst, Computer Science Student at <a href="https://www.uni-bonn.de/en">University of Bonn</a>, Web Developer</h2>
 
 <h3>👨‍💻 Data Analysis Projects:</h3>
 
