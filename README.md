@@ -14,7 +14,7 @@
   - Added <b>hierarchical consistency loss</b> to encourage valid narrative→subnarrative alignment  
   - Addressed class imbalance using <b>Focal Loss + pos_weight</b> and <b>WeightedRandomSampler</b> oversampling  
   - Delivered an end-to-end pipeline with separate scripts for <b>training</b>, <b>inference</b> (submission generation), and <b>evaluation</b> (sample-F1 + macro-F1)  
-  - Repo/notes: <i>([Link to the repository.](https://github.com/MadniAbdulWahab/NLP-Narrative-Classification))</i>
+  - Repo/notes: [Link to the repository.](https://github.com/MadniAbdulWahab/NLP-Narrative-Classification)
   
 - <b>Knowledge Graphs + LLMs (Graph-RAG)</b> (Jan 2025)  
   - Implemented query-time Graph-RAG stages (semantic filtering, chunking, intermediate answers, reduction)  
