@@ -15,7 +15,7 @@
   - Added **hierarchical consistency loss** to encourage valid narrative→subnarrative alignment
   - Addressed class imbalance using **Focal Loss + pos_weight** and **WeightedRandomSampler** oversampling
   - Delivered an end-to-end pipeline with separate scripts for **training**, **inference** (submission generation), and **evaluation** (sample-F1 + macro-F1)
-  - Repo/notes: *([Link to the repository.](https://github.com/MadniAbdulWahab/NLP-Narrative-Classification))*
+  - Repo/notes: *([Link to the repository](https://github.com/MadniAbdulWahab/NLP-Narrative-Classification))*
   
 - <b>Knowledge Graphs + LLMs (Graph-RAG)</b> (Jan 2025)  
   - Implemented query-time Graph-RAG stages (semantic filtering, chunking, intermediate answers, reduction)  
@@ -37,7 +37,7 @@
 - **Daily4U Business Website (Drupal + DDEV)**
   - Built and customized a Drupal business website (January theme) into a branded consulting/tech services site with core pages (Services, Case Studies, Team, How We Work, Contact)
   - Set up reproducible local development with **DDEV (Docker)** + **Composer/Drush** and documented onboarding + screenshots for demos
-  - Repo: https://github.com/MadniAbdulWahab/daily4u-site
+  - Repo: *([Link to the daily4u repository](https://github.com/MadniAbdulWahab/daily4u-site)*
 
 <h3>📚 Course Work:</h3>
 
