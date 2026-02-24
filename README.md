@@ -1,4 +1,3 @@
-
 <h1>Hi, I'm Abdul Wahab Madni!</h1> 
 <h2>Software engineer, Data Analyst, ML/NLP, Computer Science Student at <a href="https://www.uni-bonn.de/en">University of Bonn</a>, Web Developer</h2>
 
@@ -9,7 +8,14 @@
   - Data standardization, maintainable code, collaboration in research projects
 
 <h3>🧠 ML/NLP & Representation Learning Projects</h3>
-
+- <b>NLP Course Project – Multi-Label Narrative & Subnarrative Classification (BERT)</b>  
+  - Built a multilingual BERT-based (<code>bert-base-multilingual-cased</code>) multi-label classifier for <i>Narrative</i> and <i>Subnarrative</i> prediction  
+  - Implemented <b>hierarchical conditioning</b>: subnarrative head consumes narrative logits + BERT pooled embedding  
+  - Added <b>hierarchical consistency loss</b> to encourage valid narrative→subnarrative alignment  
+  - Addressed class imbalance using <b>Focal Loss + pos_weight</b> and <b>WeightedRandomSampler</b> oversampling  
+  - Delivered an end-to-end pipeline with separate scripts for <b>training</b>, <b>inference</b> (submission generation), and <b>evaluation</b> (sample-F1 + macro-F1)  
+  - Repo/notes: <i>([Link to the repository.](https://github.com/MadniAbdulWahab/NLP-Narrative-Classification))</i>
+  
 - <b>Knowledge Graphs + LLMs (Graph-RAG)</b> (Jan 2025)  
   - Implemented query-time Graph-RAG stages (semantic filtering, chunking, intermediate answers, reduction)  
   - Used SentenceTransformers embeddings + cosine similarity; evaluated with BLEU/ROUGE/BERTScore  
