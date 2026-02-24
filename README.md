@@ -7,7 +7,7 @@
   - Research tooling and reproducible workflows (MATLAB/Python)  
   - Data standardization, maintainable code, collaboration in research projects
 
-<h3>🧠 ML/NLP & Representation Learning Projects</h3>
+<h3>🧠 ML/NLP & Representation Learning Projects:</h3>
 
 - **NLP Course Project – Multi-Label Narrative & Subnarrative Classification (BERT)**
   - Built a multilingual BERT-based (`bert-base-multilingual-cased`) multi-label classifier for *Narrative* and *Subnarrative* prediction
