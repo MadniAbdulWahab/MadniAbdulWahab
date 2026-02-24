@@ -8,13 +8,14 @@
   - Data standardization, maintainable code, collaboration in research projects
 
 <h3>🧠 ML/NLP & Representation Learning Projects</h3>
-- <b>NLP Course Project – Multi-Label Narrative & Subnarrative Classification (BERT)</b>
-  - Built a multilingual BERT-based (<code>bert-base-multilingual-cased</code>) multi-label classifier for <i>Narrative</i> and <i>Subnarrative</i> prediction
-  - Implemented <b>hierarchical conditioning</b>: subnarrative head consumes narrative logits + BERT pooled embedding
-  - Added <b>hierarchical consistency loss</b> to encourage valid narrative→subnarrative alignment
-  - Addressed class imbalance using <b>Focal Loss + pos_weight</b> and <b>WeightedRandomSampler</b> oversampling
-  - Delivered an end-to-end pipeline with separate scripts for <b>training</b>, <b>inference</b> (submission generation), and <b>evaluation</b> (sample-F1 + macro-F1)
-  - Repo/notes: [Link to the repository.](https://github.com/MadniAbdulWahab/NLP-Narrative-Classification)
+
+- **NLP Course Project – Multi-Label Narrative & Subnarrative Classification (BERT)**
+  - Built a multilingual BERT-based (`bert-base-multilingual-cased`) multi-label classifier for *Narrative* and *Subnarrative* prediction
+  - Implemented **hierarchical conditioning**: subnarrative head consumes narrative logits + BERT pooled embedding
+  - Added **hierarchical consistency loss** to encourage valid narrative→subnarrative alignment
+  - Addressed class imbalance using **Focal Loss + pos_weight** and **WeightedRandomSampler** oversampling
+  - Delivered an end-to-end pipeline with separate scripts for **training**, **inference** (submission generation), and **evaluation** (sample-F1 + macro-F1)
+  - Repo/notes: *([Link to the repository.](https://github.com/MadniAbdulWahab/NLP-Narrative-Classification))*
   
 - <b>Knowledge Graphs + LLMs (Graph-RAG)</b> (Jan 2025)  
   - Implemented query-time Graph-RAG stages (semantic filtering, chunking, intermediate answers, reduction)  
