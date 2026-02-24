@@ -1,20 +1,18 @@
 
-<!--
-**MadniAbdulWahab/MadniAbdulWahab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1>Hi, I'm Abdul Wahab Madni!</h1> 
-<h2>Software engineer, Data Analyst, Computer Science Student at <a href="https://www.uni-bonn.de/en">University of Bonn</a>, Web Developer</h2>
+<h2>Software engineer, Data Analyst, ML/NLP, Computer Science Student at <a href="https://www.uni-bonn.de/en">University of Bonn</a>, Web Developer</h2>
+
+<h3>🔭 Current Work</h3>
+
+- <b>Research Software Engineer (Student Research Assistant) – CAIAN, University of Bonn</b> (Jan 2024 – Present)  
+  - Research tooling and reproducible workflows (MATLAB/Python)  
+  - Data standardization, maintainable code, collaboration in research projects
+
+<h3>🧠 ML/NLP & Representation Learning Projects</h3>
+
+- <b>Knowledge Graphs + LLMs (Graph-RAG)</b> (Jan 2025)  
+  - Implemented query-time Graph-RAG stages (semantic filtering, chunking, intermediate answers, reduction)  
+  - Used SentenceTransformers embeddings + cosine similarity; evaluated with BLEU/ROUGE/BERTScore  
 
 <h3>👨‍💻 Data Analysis Projects:</h3>
 
@@ -31,8 +29,22 @@ Here are some ideas to get you started:
 
 <h3>📚 Course Work:</h3>
 
+- <b>Introduction to Natural Language Processing</b>  
+- <b>Advanced Methods for Text Mining</b> 
+- <b>Lab: Information Retrieval in Practice</b>  
+- <b>Advanced Methods of Information Retrieval</b>  
+- <b>Spatio-Temporal Data Analytics</b>  
+- <b>Principles of Machine Learning</b>  
+- <b>Technical Neural Nets</b> 
 - <b> Visual Data Analysis (Masters)</b>
   - [Comprehensive training in advanced data visualization techniques, color theory, geographical data representation, and scientific visualization, using a wide array of Python libraries and tools.](https://github.com/MadniAbdulWahab/VisualDataAnalysis)
+ 
+<h3>🛠️ Skills</h3>
+
+- <b>Programming:</b> Python, SQL/MySQL, MATLAB, C++  
+- <b>ML/Data:</b> scikit-learn, pandas, NumPy, (PyTorch basics / learning), embeddings & similarity  
+- <b>Tooling:</b> Docker, Git/GitHub, Linux, reproducible pipelines, experiment setup & evaluation  
+- <b>Visualization:</b> Plotly, Matplotlib, dashboards (Panel/Dash), Power BI
 
 <h3> 🤳 Connect with me:</h3>
 
@@ -44,17 +56,3 @@ Here are some ideas to get you started:
 [instagram]: https://www.instagram.com/notwahab_009/
 [Gmail]: mailto:madniabdulwahab@gmail.com
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
