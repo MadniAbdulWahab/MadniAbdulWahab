@@ -12,9 +12,7 @@
 - **NLP Course Project – Multi-Label Narrative & Subnarrative Classification (BERT)**
   - Built a multilingual BERT-based (`bert-base-multilingual-cased`) multi-label classifier for *Narrative* and *Subnarrative* prediction
   - Implemented **hierarchical conditioning**: subnarrative head consumes narrative logits + BERT pooled embedding
-  - Added **hierarchical consistency loss** to encourage valid narrative→subnarrative alignment
   - Addressed class imbalance using **Focal Loss + pos_weight** and **WeightedRandomSampler** oversampling
-  - Delivered an end-to-end pipeline with separate scripts for **training**, **inference** (submission generation), and **evaluation** (sample-F1 + macro-F1)
   - Repo/notes: *([Link to the repository](https://github.com/MadniAbdulWahab/NLP-Narrative-Classification))*
   
 - <b>Knowledge Graphs + LLMs (Graph-RAG)</b> (Jan 2025)  
