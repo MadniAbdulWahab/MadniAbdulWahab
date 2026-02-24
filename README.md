@@ -42,7 +42,7 @@
 <h3>🛠️ Skills</h3>
 
 - <b>Programming:</b> Python, SQL/MySQL, MATLAB, C++  
-- <b>ML/Data:</b> scikit-learn, pandas, NumPy, (PyTorch basics / learning), embeddings & similarity  
+- <b>ML/Data:</b> scikit-learn, pandas, NumPy, PyTorch, embeddings & similarity  
 - <b>Tooling:</b> Docker, Git/GitHub, Linux, reproducible pipelines, experiment setup & evaluation  
 - <b>Visualization:</b> Plotly, Matplotlib, dashboards (Panel/Dash), Power BI
 
