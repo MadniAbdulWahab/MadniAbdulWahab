@@ -34,6 +34,11 @@
 - <b> University Notes Management System (Django)</b>
   - [A web-based common platform for notes sharing](https://github.com/MadniAbdulWahab/UniversityNotesManagementSystem)
 
+- **Daily4U Business Website (Drupal + DDEV)**
+  - Built and customized a Drupal business website (January theme) into a branded consulting/tech services site with core pages (Services, Case Studies, Team, How We Work, Contact)
+  - Set up reproducible local development with **DDEV (Docker)** + **Composer/Drush** and documented onboarding + screenshots for demos
+  - Repo: https://github.com/MadniAbdulWahab/daily4u-site
+
 <h3>📚 Course Work:</h3>
 
 - <b>Introduction to Natural Language Processing</b>  
