@@ -42,7 +42,7 @@
 - **Daily4U Business Website (Drupal + DDEV)**
   - Built and customized a Drupal business website (January theme) into a branded consulting/tech services site with core pages (Services, Case Studies, Team, How We Work, Contact)
   - Set up reproducible local development with **DDEV (Docker)** + **Composer/Drush** and documented onboarding + screenshots for demos
-  - Repo: ([Daily4U Business Website repository](https://github.com/MadniAbdulWahab/daily4u-site)
+  - Repo: ([Daily4U Business Website repository](https://github.com/MadniAbdulWahab/daily4u-site))
 
 <h3>📚 Course Work:</h3>
 
@@ -62,7 +62,7 @@
 - <b>ML/Data:</b> scikit-learn, pandas, NumPy, PyTorch, embeddings & similarity
 - <b>Web:</b> Django, React/TypeScript, Drupal, REST APIs, HTML/CSS, basic JavaScript, API integration
 - <b>Tooling:</b> Docker, Git/GitHub, Linux, reproducible pipelines, experiment setup & evaluation  
-- <b>Visualization:</b> Plotly, Matplotlib, dashboards (Panel/Dash), Power BI, DAX
+- <b>Visualization:</b> Power BI, Plotly, Matplotlib, dashboards (Panel/Dash), DAX, Power Query
 
 <h3> 🤳 Connect with me:</h3>
 
