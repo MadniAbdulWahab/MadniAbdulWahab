@@ -1,5 +1,5 @@
 <h1>Hi, I'm Abdul Wahab Madni!</h1> 
-<h2>Software engineer, Data Analyst, ML/NLP, Computer Science Student at <a href="https://www.uni-bonn.de/en">University of Bonn</a>, Web Developer</h2>
+<h2>Software engineer, Data Analyst, ML/NLP Enthusiast, Computer Science Student at <a href="https://www.uni-bonn.de/en">University of Bonn</a>, Web Developer</h2>
 
 <h3>🔭 Current Work</h3>
 
