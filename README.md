@@ -13,7 +13,7 @@
   - Built a multilingual BERT-based (`bert-base-multilingual-cased`) multi-label classifier for *Narrative* and *Subnarrative* prediction
   - Implemented **hierarchical conditioning**: subnarrative head consumes narrative logits + BERT pooled embedding
   - Addressed class imbalance using **Focal Loss + pos_weight** and **WeightedRandomSampler** oversampling
-  - Repo/notes: *([Link to the repository](https://github.com/MadniAbdulWahab/NLP-Narrative-Classification))*
+  - Repo/notes: ([NLP Course Project repository](https://github.com/MadniAbdulWahab/NLP-Narrative-Classification))
   
 - <b>Knowledge Graphs + LLMs (Graph-RAG)</b> (Jan 2025)  
   - Implemented query-time Graph-RAG stages (semantic filtering, chunking, intermediate answers, reduction)  
@@ -21,8 +21,15 @@
 
 <h3>👨‍💻 Data Analysis Projects:</h3>
 
+- <b>Operations KPI & Performance Dashboard (Power BI)</b>
+  - Built a multi-page Power BI dashboard for commercial performance, operational efficiency, and data quality monitoring
+  - Designed a realistic synthetic dataset in <b>Python</b> with country/region structure, seasonality, target-vs-actual variation, missing values, unknown mappings, outliers, and duplicates
+  - Applied <b>Power Query</b> cleaning, <b>star schema</b> modeling, and ~45 <b>DAX</b> measures for KPI tracking, variance analysis, issue monitoring, and drill-through reporting
+  - [Power BI Operations KPI Dashboard Repository](https://github.com/MadniAbdulWahab/powerbi-operations-kpi-dashboard)
+
 - <b> Customer Segmentation and Product Analysis (Panel)</b>
   - [In-depth analysis of customer segments and product trends](https://github.com/MadniAbdulWahab/CustomerSegmentationandProductAnalysis)
+
 - <b>Interactive Analysis of Mice Protein Expressions (Dash)</b>
   - [Mice Protein Expression Visualization Dashboard](https://github.com/MadniAbdulWahab/InteractiveAnalysisofMiceProteinExpressions) </i>
 
@@ -35,7 +42,7 @@
 - **Daily4U Business Website (Drupal + DDEV)**
   - Built and customized a Drupal business website (January theme) into a branded consulting/tech services site with core pages (Services, Case Studies, Team, How We Work, Contact)
   - Set up reproducible local development with **DDEV (Docker)** + **Composer/Drush** and documented onboarding + screenshots for demos
-  - Repo: *([Link to the daily4u repository](https://github.com/MadniAbdulWahab/daily4u-site)*
+  - Repo: ([Daily4U Business Website repository](https://github.com/MadniAbdulWahab/daily4u-site)
 
 <h3>📚 Course Work:</h3>
 
@@ -55,7 +62,7 @@
 - <b>ML/Data:</b> scikit-learn, pandas, NumPy, PyTorch, embeddings & similarity
 - <b>Web:</b> Django, React/TypeScript, Drupal, REST APIs, HTML/CSS, basic JavaScript, API integration
 - <b>Tooling:</b> Docker, Git/GitHub, Linux, reproducible pipelines, experiment setup & evaluation  
-- <b>Visualization:</b> Plotly, Matplotlib, dashboards (Panel/Dash), Power BI
+- <b>Visualization:</b> Plotly, Matplotlib, dashboards (Panel/Dash), Power BI, DAX
 
 <h3> 🤳 Connect with me:</h3>
 
