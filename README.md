@@ -27,6 +27,15 @@
   - Applied <b>Power Query</b> cleaning, <b>star schema</b> modeling, and ~45 <b>DAX</b> measures for KPI tracking, variance analysis, issue monitoring, and drill-through reporting
   - [Power BI Operations KPI Dashboard Repository](https://github.com/MadniAbdulWahab/powerbi-operations-kpi-dashboard)
 
+- <b>Impact Survey Data Quality & Reporting Toolkit (KoboToolbox, Excel, R, SQLite & Quarto)</b>
+  - Built an end-to-end survey-data workflow using a publicly deployed <b>KoboToolbox XLSForm</b> and 420 reproducibly generated synthetic responses
+  - Implemented seven quality-control checks in <b>R</b> covering missing values, duplicates, invalid codes, date and range errors, region/site inconsistencies, and skip-logic violations
+  - Developed a verified Excel workbook using <b>Power Query, lookup formulas, data validation, conditional formatting, pivot tables, and VBA</b>
+  - Created a queryable <b>SQLite</b> database and an automated, self-contained <b>Quarto HTML report</b> with quantitative and qualitative analysis
+  - Applied strong logical thinking and attention to detail when translating data-quality problems into testable rules, reconciling results across tools, and documenting validation decisions
+  - Learned and connected KoboToolbox, R, SQLite, Quarto, and advanced Excel features, reflecting my willingness to learn new tools and adapt to changing requirements
+  - [Project Repository](https://github.com/MadniAbdulWahab/impact-survey-data-quality-toolkit) | [Deployed Kobo Form](https://ee.kobotoolbox.org/x/KTUkyR6W)
+
 - <b> Customer Segmentation and Product Analysis (Panel)</b>
   - [In-depth analysis of customer segments and product trends](https://github.com/MadniAbdulWahab/CustomerSegmentationandProductAnalysis)
 
@@ -58,11 +67,11 @@
  
 <h3>🛠️ Skills</h3>
 
-- <b>Programming:</b> Python, SQL/MySQL, MATLAB, C++  
-- <b>ML/Data:</b> scikit-learn, pandas, NumPy, PyTorch, embeddings & similarity
+- <b>Programming:</b> Python, R, SQL/MySQL/SQLite, MATLAB, C++  
+- <b>ML/Data:</b> scikit-learn, pandas, NumPy, PyTorch, survey data quality, embeddings & similarity
 - <b>Web:</b> Django, React/TypeScript, Drupal, REST APIs, HTML/CSS, basic JavaScript, API integration
-- <b>Tooling:</b> Docker, Git/GitHub, Linux, reproducible pipelines, experiment setup & evaluation  
-- <b>Visualization:</b> Power BI, Plotly, Matplotlib, dashboards (Panel/Dash), DAX, Power Query
+- <b>Tooling:</b> Docker, Git/GitHub, Linux, KoboToolbox/XLSForm, Quarto, reproducible pipelines, experiment setup & evaluation  
+- <b>Visualization:</b> Power BI, Advanced Excel, Plotly, Matplotlib, dashboards (Panel/Dash), DAX, Power Query, pivot tables, VBA
 
 <h3> 🤳 Connect with me:</h3>
 
