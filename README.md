@@ -71,11 +71,12 @@
  
 <h3>🛠️ Skills</h3>
 
-- <b>Programming:</b> Python, R, SQL/MySQL/SQLite, MATLAB, C++  
-- <b>ML/Data:</b> scikit-learn, pandas, NumPy, PyTorch, survey data quality, embeddings & similarity
-- <b>Web:</b> Django, React/TypeScript, Drupal, REST APIs, HTML/CSS, basic JavaScript, API integration
-- <b>Tooling:</b> Docker, Git/GitHub, Linux, KoboToolbox/XLSForm, Quarto, reproducible pipelines, experiment setup & evaluation  
-- <b>Visualization:</b> Power BI, Advanced Excel, Plotly, Matplotlib, dashboards (Panel/Dash), DAX, Power Query, pivot tables, VBA
+- <b>Programming:</b> Python, R, SQL, MySQL, SQLite, MATLAB, C++
+- <b>Data Engineering:</b> ETL pipelines, dimensional modelling, star schemas, data-quality controls, reconciliation, data lineage, reproducible data generation
+- <b>Machine Learning & Data:</b> scikit-learn, pandas, NumPy, PyTorch, survey-data quality, embeddings and similarity
+- <b>Business Intelligence & Visualization:</b> SAP Analytics Cloud, Power BI, Advanced Excel, DAX, Power Query, Plotly, Matplotlib, Panel, Dash, pivot tables, VBA
+- <b>Web Development:</b> Django, React, TypeScript, Drupal, REST APIs, HTML/CSS, JavaScript, API integration
+- <b>Tools & Reporting:</b> Git/GitHub, Docker, Linux, KoboToolbox/XLSForm, Quarto, automated testing, experiment setup and evaluation
 
 <h3> 🤳 Connect with me:</h3>
 
