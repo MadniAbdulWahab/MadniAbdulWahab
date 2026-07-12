@@ -21,20 +21,24 @@
 
 <h3>👨‍💻 Data Analysis Projects:</h3>
 
+- <b>Insurance Sales Data Model & BI Dashboard (SAP Analytics Cloud, SQL & Python)</b>
+  - Built an end-to-end analytics solution for a German property-and-casualty insurance scenario using deterministic synthetic data
+  - Developed a Python and SQLite pipeline with SQL transformations, data-quality controls, reconciliation, lineage, and automated testing
+  - Designed a star schema and a six-page SAP Analytics Cloud dashboard covering sales, targets, products, regions, channels, cancellations, and data quality
+  - [Insurance Sales Data Model & BI Dashboard Repository](https://github.com/MadniAbdulWahab/sap-insurance-sales-bi)
+
 - <b>Operations KPI & Performance Dashboard (Power BI)</b>
-  - Built a multi-page Power BI dashboard for commercial performance, operational efficiency, and data quality monitoring
-  - Designed a realistic synthetic dataset in <b>Python</b> with country/region structure, seasonality, target-vs-actual variation, missing values, unknown mappings, outliers, and duplicates
-  - Applied <b>Power Query</b> cleaning, <b>star schema</b> modeling, and ~45 <b>DAX</b> measures for KPI tracking, variance analysis, issue monitoring, and drill-through reporting
+  - Built a multi-page Power BI dashboard for commercial performance, operational efficiency, and data-quality monitoring
+  - Designed a realistic synthetic dataset in <b>Python</b> with seasonality, target-vs-actual variation, missing values, outliers, and duplicates
+  - Applied <b>Power Query</b>, star-schema modelling, and approximately 45 <b>DAX</b> measures for KPI tracking, variance analysis, and drill-through reporting
   - [Power BI Operations KPI Dashboard Repository](https://github.com/MadniAbdulWahab/powerbi-operations-kpi-dashboard)
 
 - <b>Impact Survey Data Quality & Reporting Toolkit (KoboToolbox, Excel, R, SQLite & Quarto)</b>
-  - Built an end-to-end survey-data workflow using a publicly deployed <b>KoboToolbox XLSForm</b> and 420 reproducibly generated synthetic responses
-  - Implemented seven quality-control checks in <b>R</b> covering missing values, duplicates, invalid codes, date and range errors, region/site inconsistencies, and skip-logic violations
-  - Developed a verified Excel workbook using <b>Power Query, lookup formulas, data validation, conditional formatting, pivot tables, and VBA</b>
-  - Created a queryable <b>SQLite</b> database and an automated, self-contained <b>Quarto HTML report</b> with quantitative and qualitative analysis
-  - Applied strong logical thinking and attention to detail when translating data-quality problems into testable rules, reconciling results across tools, and documenting validation decisions
-  - Learned and connected KoboToolbox, R, SQLite, Quarto, and advanced Excel features, reflecting my willingness to learn new tools and adapt to changing requirements
+  - Built an end-to-end survey workflow using a deployed <b>KoboToolbox XLSForm</b> and 420 reproducibly generated responses
+  - Implemented data-quality checks in <b>R</b> and developed a validated <b>Excel</b> workbook with Power Query, formulas, pivot tables, and VBA
+  - Created a queryable <b>SQLite</b> database and an automated <b>Quarto HTML report</b> for quantitative and qualitative analysis
   - [Project Repository](https://github.com/MadniAbdulWahab/impact-survey-data-quality-toolkit) | [Deployed Kobo Form](https://ee.kobotoolbox.org/x/KTUkyR6W)
+
 
 - <b> Customer Segmentation and Product Analysis (Panel)</b>
   - [In-depth analysis of customer segments and product trends](https://github.com/MadniAbdulWahab/CustomerSegmentationandProductAnalysis)
