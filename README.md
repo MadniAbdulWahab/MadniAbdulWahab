@@ -15,9 +15,12 @@
   - Addressed class imbalance using **Focal Loss + pos_weight** and **WeightedRandomSampler** oversampling
   - Repo/notes: ([NLP Course Project repository](https://github.com/MadniAbdulWahab/NLP-Narrative-Classification))
   
-- <b>Knowledge Graphs + LLMs (Graph-RAG)</b> (Jan 2025)  
-  - Implemented query-time Graph-RAG stages (semantic filtering, chunking, intermediate answers, reduction)  
-  - Used SentenceTransformers embeddings + cosine similarity; evaluated with BLEU/ROUGE/BERTScore  
+- **GraphRAG for Open-Domain Question Answering**
+  - Built an end-to-end **GraphRAG pipeline over SQuAD**, covering entity and relationship extraction, knowledge-graph construction, community detection, retrieval, and answer generation
+  - Constructed a graph with **11,684 entities and 14,340 relationships** using Llama, NetworkX, and Louvain community detection
+  - Implemented and compared **SentenceTransformer, FAISS, and hybrid BM25 + dense retrieval**, followed by relevance scoring and global-answer reduction
+  - Evaluated retrieval and generation using **Recall@k, MRR, BLEU, BERTScore, and ROUGE**, including comparison with a text-only RAG baseline
+  - Repo/report: [GraphRAG project repository](https://github.com/MadniAbdulWahab/graphrag)
 
 <h3>👨‍💻 Data Analysis Projects:</h3>
 
