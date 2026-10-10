@@ -1,93 +1,39 @@
-<h1>Hi, I'm Abdul Wahab Madni!</h1> 
-<h2>Software engineer, Data Analyst, ML/NLP Enthusiast, Computer Science Student at <a href="https://www.uni-bonn.de/en">University of Bonn</a>, Web Developer</h2>
+# Abdul Wahab Madni
 
-<h3>🔭 Current Work</h3>
+Research software engineer at the University of Bonn's Hertz Chair for Artificial Intelligence and
+Neuroscience. I build data-heavy software in Python, Java/Spring Boot, C++ and TypeScript, and I care
+about tests, reproducibility and code other people can maintain.
 
-- <b>Research Software Engineer (Student Research Assistant) – CAIAN, University of Bonn</b> (Jan 2024 – Present)  
-  - Research tooling and reproducible workflows (MATLAB/Python)  
-  - Data standardization, maintainable code, collaboration in research projects
+M.Sc. Computer Science, University of Bonn (expected Dec 2026) · Bonn, Germany ·
+[LinkedIn](https://linkedin.com/in/abdul-wahab-madni) · madniabdulwahab@gmail.com
 
-<h3>🧠 ML/NLP & Representation Learning Projects:</h3>
+---
 
-- **NLP Course Project – Multi-Label Narrative & Subnarrative Classification (BERT)**
-  - Built a multilingual BERT-based (`bert-base-multilingual-cased`) multi-label classifier for *Narrative* and *Subnarrative* prediction
-  - Implemented **hierarchical conditioning**: subnarrative head consumes narrative logits + BERT pooled embedding
-  - Addressed class imbalance using **Focal Loss + pos_weight** and **WeightedRandomSampler** oversampling
-  - Repo/notes: ([NLP Course Project repository](https://github.com/MadniAbdulWahab/NLP-Narrative-Classification))
-  
-- **GraphRAG for Open-Domain Question Answering**
-  - Built an end-to-end **GraphRAG pipeline over SQuAD**, covering entity and relationship extraction, knowledge-graph construction, community detection, retrieval, and answer generation
-  - Constructed a graph with **11,684 entities and 14,340 relationships** using Llama, NetworkX, and Louvain community detection
-  - Implemented and compared **SentenceTransformer, FAISS, and hybrid BM25 + dense retrieval**, followed by relevance scoring and global-answer reduction
-  - Evaluated retrieval and generation using **Recall@k, MRR, BLEU, BERTScore, and ROUGE**, including comparison with a text-only RAG baseline
-  - Repo/report: [GraphRAG project repository](https://github.com/MadniAbdulWahab/graphrag)
+### What I work on
 
-<h3>👨‍💻 Data Analysis Projects:</h3>
+- **Research software (CAIAN, University of Bonn, since 2024):** Python and MATLAB tools for research
+  data, and Java/Spring Boot features for the Calibench benchmark platform: user administration,
+  password reset with Spring Security, ranking views with confidence intervals, and recovery of
+  interrupted benchmark jobs on a Linux server.
+- **M.Sc. thesis (in progress):** extracting treatment pathways from German clinical letters with
+  rule-based, NLP and LLM-assisted methods, served through FastAPI/PostgreSQL to a React/TypeScript
+  dashboard for clinicians.
 
-- <b>Insurance Sales Data Model & BI Dashboard (SAP Analytics Cloud, SQL & Python)</b>
-  - Built an end-to-end analytics solution for a German property-and-casualty insurance scenario using deterministic synthetic data
-  - Developed a Python and SQLite pipeline with SQL transformations, data-quality controls, reconciliation, lineage, and automated testing
-  - Designed a star schema and a six-page SAP Analytics Cloud dashboard covering sales, targets, products, regions, channels, cancellations, and data quality
-  - [Insurance Sales Data Model & BI Dashboard Repository](https://github.com/MadniAbdulWahab/sap-insurance-sales-bi)
+### Selected projects
 
-- <b>Operations KPI & Performance Dashboard (Power BI)</b>
-  - Built a multi-page Power BI dashboard for commercial performance, operational efficiency, and data-quality monitoring
-  - Designed a realistic synthetic dataset in <b>Python</b> with seasonality, target-vs-actual variation, missing values, outliers, and duplicates
-  - Applied <b>Power Query</b>, star-schema modelling, and approximately 45 <b>DAX</b> measures for KPI tracking, variance analysis, and drill-through reporting
-  - [Power BI Operations KPI Dashboard Repository](https://github.com/MadniAbdulWahab/powerbi-operations-kpi-dashboard)
+| Project | What it shows | Stack |
+|---|---|---|
+| [**DataPipe**](https://github.com/MadniAbdulWahab/cpp-data-processing-engine) | Chunked, typed CSV engine with a bounded thread pool, deterministic aggregation merges and a pybind11 Python module. CI on GCC and Clang. | C++20 · CMake · CTest · pybind11 · GitHub Actions |
+| [**GymTrack**](https://github.com/MadniAbdulWahab/gymtrack-showcase) ([live](https://gym-tracker.madniabdulwahab.workers.dev)) | Local-first workout PWA: IndexedDB for instant offline writes, keyset-paginated sync to Supabase/PostgreSQL with row-level security, 100+ tests. | React · TypeScript · Dexie · Supabase · Vitest · Cloudflare |
+| [**FIFA 26 Companion**](https://madniabdulwahab.github.io/fifa26/) (live) | World Cup app with provider adapters that normalise external APIs, TanStack Query caching and a seeded Monte Carlo tournament simulation. | React · TypeScript · TanStack Query · Vitest · GitHub Actions |
+| [**GraphRAG QA**](https://github.com/MadniAbdulWahab/graphrag) | Knowledge graph built from SQuAD passages with an LLM (11.7k nodes, 14.3k edges), Louvain communities, hybrid BM25 + FAISS retrieval; evaluated with BLEU/ROUGE/BERTScore, Recall@k/MRR and a text-only RAG baseline. | Python · PyTorch · Transformers · NetworkX · FAISS |
+| [**Supply Chain Lakehouse**](https://github.com/MadniAbdulWahab/supply-chain-operations) | Bronze/silver/gold pipeline over 1.25M shipment events with idempotent loads, quarantine, late-arriving data handling and a Power BI model. | Python · DuckDB · Parquet · SQL · Power BI |
+| [**Cowboy Shootout**](https://github.com/MadniAbdulWahab/cowboy-shootout) | Java 21 simulation with O(1) circle operations, seeded injectable randomness, streamed JSON protocol with SHA-256, 30 JUnit tests and a Monte Carlo fairness analysis. | Java 21 · Maven · JUnit · Jackson |
+| [**Insurance Sales BI**](https://github.com/MadniAbdulWahab/sap-insurance-sales-bi) | Star schema (2 facts, 6 dimensions), manifest-driven data-quality checks, reconciliation and a six-page SAP Analytics Cloud story. | Python · SQL · SQLite · SAP Analytics Cloud |
 
-- <b>Impact Survey Data Quality & Reporting Toolkit (KoboToolbox, Excel, R, SQLite & Quarto)</b>
-  - Built an end-to-end survey workflow using a deployed <b>KoboToolbox XLSForm</b> and 420 reproducibly generated responses
-  - Implemented data-quality checks in <b>R</b> and developed a validated <b>Excel</b> workbook with Power Query, formulas, pivot tables, and VBA
-  - Created a queryable <b>SQLite</b> database and an automated <b>Quarto HTML report</b> for quantitative and qualitative analysis
-  - [Project Repository](https://github.com/MadniAbdulWahab/impact-survey-data-quality-toolkit) | [Deployed Kobo Form](https://ee.kobotoolbox.org/x/KTUkyR6W)
+### Tools I use most
 
+Python · SQL · Java · Spring Boot · C++ · TypeScript · React · PostgreSQL · Docker · Linux · Git ·
+GitHub Actions · pandas · PyTorch · Power BI
 
-- <b> Customer Segmentation and Product Analysis (Panel)</b>
-  - [In-depth analysis of customer segments and product trends](https://github.com/MadniAbdulWahab/CustomerSegmentationandProductAnalysis)
-
-- <b>Interactive Analysis of Mice Protein Expressions (Dash)</b>
-  - [Mice Protein Expression Visualization Dashboard](https://github.com/MadniAbdulWahab/InteractiveAnalysisofMiceProteinExpressions) </i>
-
-
-<h3>💻 Web Development Projects:</h3>
-
-- <b> University Notes Management System (Django)</b>
-  - [A web-based common platform for notes sharing](https://github.com/MadniAbdulWahab/UniversityNotesManagementSystem)
-
-- **Daily4U Business Website (Drupal + DDEV)**
-  - Built and customized a Drupal business website (January theme) into a branded consulting/tech services site with core pages (Services, Case Studies, Team, How We Work, Contact)
-  - Set up reproducible local development with **DDEV (Docker)** + **Composer/Drush** and documented onboarding + screenshots for demos
-  - Repo: ([Daily4U Business Website repository](https://github.com/MadniAbdulWahab/daily4u-site))
-
-<h3>📚 Course Work:</h3>
-
-- <b>Introduction to Natural Language Processing</b>  
-- <b>Advanced Methods for Text Mining</b> 
-- <b>Lab: Information Retrieval in Practice</b>  
-- <b>Advanced Methods of Information Retrieval</b>  
-- <b>Spatio-Temporal Data Analytics</b>  
-- <b>Principles of Machine Learning</b>  
-- <b>Technical Neural Nets</b> 
-- <b> Visual Data Analysis (Masters)</b>
-  - [Comprehensive training in advanced data visualization techniques, color theory, geographical data representation, and scientific visualization, using a wide array of Python libraries and tools.](https://github.com/MadniAbdulWahab/VisualDataAnalysis)
- 
-<h3>🛠️ Skills</h3>
-
-- <b>Programming:</b> Python, R, SQL, MySQL, SQLite, MATLAB, C++
-- <b>Data Engineering:</b> ETL pipelines, dimensional modelling, star schemas, data-quality controls, reconciliation, data lineage, reproducible data generation
-- <b>Machine Learning & Data:</b> scikit-learn, pandas, NumPy, PyTorch, survey-data quality, embeddings and similarity
-- <b>Business Intelligence & Visualization:</b> SAP Analytics Cloud, Power BI, Advanced Excel, DAX, Power Query, Plotly, Matplotlib, Panel, Dash, pivot tables, VBA
-- <b>Web Development:</b> Django, React, TypeScript, Drupal, REST APIs, HTML/CSS, JavaScript, API integration
-- <b>Tools & Reporting:</b> Git/GitHub, Docker, Linux, KoboToolbox/XLSForm, Quarto, automated testing, experiment setup and evaluation
-
-<h3> 🤳 Connect with me:</h3>
-
-[<img align="left" alt="Abdul Wahab Madni | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Abdul Wahab Madni | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Abdul Wahab Madni | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Gmail]
-
-[linkedin]: https://www.linkedin.com/in/abdul-wahab-madni
-[instagram]: https://www.instagram.com/notwahab_009/
-[Gmail]: mailto:madniabdulwahab@gmail.com
-
+Languages: English (C2), German (B1), Urdu (native)
