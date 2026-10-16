@@ -15,9 +15,6 @@ M.Sc. Computer Science, University of Bonn (expected Dec 2026) · Bonn, Germany 
   data, and Java/Spring Boot features for the Calibench benchmark platform: user administration,
   password reset with Spring Security, ranking views with confidence intervals, and recovery of
   interrupted benchmark jobs on a Linux server.
-- **M.Sc. thesis (in progress):** extracting treatment pathways from German clinical letters with
-  rule-based, NLP and LLM-assisted methods, served through FastAPI/PostgreSQL to a React/TypeScript
-  dashboard for clinicians.
 
 ### Selected projects
 
