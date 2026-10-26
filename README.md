@@ -4,7 +4,7 @@ Research software engineer at the University of Bonn's Hertz Chair for Artificia
 Neuroscience. I build full-stack and data-heavy software in Java/Spring Boot, Python, TypeScript/React
 and C++, and I care about tests, reproducibility and code other people can maintain.
 
-M.Sc. Computer Science, University of Bonn (expected Dec 2026) · Bonn, Germany ·
+M.Sc. Computer Science, University of Bonn · Bonn, Germany ·
 [LinkedIn](https://linkedin.com/in/abdul-wahab-madni) · madniabdulwahab@gmail.com
 
 ---
